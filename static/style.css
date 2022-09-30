@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: rgb(218, 218, 235);
+}
+.box_daddy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.boxes{
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    border: 2px black solid;
+}
